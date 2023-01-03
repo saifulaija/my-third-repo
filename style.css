@@ -1,0 +1,7 @@
+#blog{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: 5px solid green;
+    background-color: antiquewhite;
+}
